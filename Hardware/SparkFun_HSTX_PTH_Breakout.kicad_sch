@@ -6,6 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "SparkFun HSTX PTH Breakout")
+		(date "2025-03-03")
 		(rev "v10")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: Alex Brudner")
@@ -1672,7 +1673,7 @@
 					(hide yes)
 				)
 			)
-			(property "PROD_ID" ""
+			(property "PROD_ID" "CONN-25634"
 				(at -1.016 -40.386 0)
 				(effects
 					(font
@@ -3933,7 +3934,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" ""
+		(property "PROD_ID" "CONN-25634"
 			(at 114.046 63.754 0)
 			(effects
 				(font
