@@ -1,7 +1,7 @@
 SparkFun HSXT PTH Breakout
 ========================================
 
-[![SparkFun HSTX PTH Breakout](https://cdn.sparkfun.com/r/600-600/assets/parts/3/0/2/7/6/28468-HSTX-PTH-Breakout-Feature.jpg)](https://www.sparkfun.com/sparkfun-hstx-pth-breakout.html)
+[![SparkFun HSTX PTH Breakout](./docs/assets/img/SparkFun_HSTX_PTH_Breakout-Banner.jpg)](https://www.sparkfun.com/sparkfun-hstx-pth-breakout.html)
 
 [*SparkFun HSTX PTH Breakout (BOB-28467)*](https://www.sparkfun.com/sparkfun-hstx-pth-breakout.html)
 
